@@ -4,8 +4,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World 안녕");
-
+		
+		//WordManger 에 있는 start 함수 호출하는 방법 
+		new WordManager().start(); 
+		
 	}
 
 }
